@@ -1,9 +1,7 @@
 # Olá! Eu sou o Caio Yago 🤙🏾
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/caio-yago/)
-[![Portfólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://ucaioyago.github.io/Portfolio/)
 [![Portfólio](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ucaioyago/)
-[![Portfólio](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](caioyagovilela@hotmail.com)
 
 ## Tecnologias que tenho habilidade 💻💻
 
@@ -27,5 +25,5 @@
 </div><br/>
 
 ## Apaixonado por tecnologias, games e muay Thai 🕹️🎮🥊
-
+<br/><br/>
 ![Caio Yago Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UCaioYago&langs_count=8)
